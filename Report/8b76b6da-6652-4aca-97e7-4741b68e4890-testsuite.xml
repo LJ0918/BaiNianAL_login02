@@ -1,0 +1,118 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1539087666445" stop="1539087829585">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1539087666445" status="passed" stop="1539087715598">
+      <name>TestLogin.test_login[13331172859-123456-lj0918-None]</name>
+      <attachments>
+        <attachment source="352f62af-3b7c-4372-81ed-69dca2c0032e-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539087715602" status="passed" stop="1539087744142">
+      <name>TestLogin.test_login[lj0918-123456-lj0918-None]</name>
+      <attachments>
+        <attachment source="e14e3972-3316-4fef-87b3-c521fd3381c5-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539087744146" status="passed" stop="1539087772449">
+      <name>TestLogin.test_login[ 13331172859 -123456-lj0918-None]</name>
+      <attachments>
+        <attachment source="c41cdf89-087b-47da-847d-177d06c1c2aa-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539087772453" status="passed" stop="1539087801996">
+      <name>TestLogin.test_login[ lj0918 -123456-lj0918-None]</name>
+      <attachments>
+        <attachment source="df5d5327-f01e-467b-b3aa-239986b11b72-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539087801999" status="passed" stop="1539087808864">
+      <name>TestLogin.test_login[133311828971-123456-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments>
+        <attachment source="dcbe1aa9-ffde-4d5a-bcac-a8b5ccb6ba66-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539087808867" status="passed" stop="1539087815801">
+      <name>TestLogin.test_login[13331172859-12345-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments>
+        <attachment source="fa2844f3-232a-4579-81cb-dc58cf85a6ed-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539087815805" status="passed" stop="1539087822428">
+      <name>TestLogin.test_login[13331172859-1245-None-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments>
+        <attachment source="55eb6914-1344-4383-9b37-2217b6746651-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1539087822434" status="passed" stop="1539087829585">
+      <name>TestLogin.test_login[lj99999-123456-None-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments>
+        <attachment source="a3bb17eb-1dea-45ab-902a-21449df7ef07-attachment.txt" title="登录状态：" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1512-MainThread"/>
+        <label name="host" value="084CJ27JT27NBKY"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
